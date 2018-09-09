@@ -98,3 +98,5 @@ index
 %index=1 means rain while index=2 means no rain that day
 % hence by checking the index values for each day we can predict whether
 % that was a rainy day or not.
+
+%Did I make this change????
